@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="insert_images">
+        <item>拍摄一张照片</item>
+        <item>选择已有照片</item>
+    </string-array>
+</resources>

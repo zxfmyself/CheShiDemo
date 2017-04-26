@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">测试</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- SaoMaActivity -->
+    <string name="saoma_title">二维码/条码</string>
+    <string name="scan_text">将二维码/条码放入框内, 即可自动扫描</string>
+
+    <string name="audio_record_time">00</string>
+    <string name="audio_record_jiange">:</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
